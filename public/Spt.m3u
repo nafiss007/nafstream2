@@ -1,0 +1,836 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ NPO 1 HD [NL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745078&extension=ts&play_token=KNGLyFpAYz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ NPO 2 HD [NL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745079&extension=ts&play_token=qf0ut1DLwa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ NPO 3 HD [NL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745080&extension=ts&play_token=tjD2ZRWRr2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ VRT 1 HD [BE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745081&extension=ts&play_token=uBsQBchbtI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ TIPIK HD [BE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745082&extension=ts&play_token=eaRrsKpoOU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ DAS ERSTE HD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745090&extension=ts&play_token=6yFEI5GrMz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ ZDF HD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745091&extension=ts&play_token=TEhDz4R08n
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ SERVUS TV HD [AT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745098&extension=ts&play_token=Nr6qzn7gAh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FUSSBALL.TV 1 HD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745092&extension=ts&play_token=xSDarPyPlD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FUSSBALL.TV 2 HD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745093&extension=ts&play_token=P8xYcOBRP2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FUSSBALL.TV 3 HD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745094&extension=ts&play_token=bKDK2eYfDg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FUSSBALL.TV 1 UHD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745095&extension=ts&play_token=3pCDaewEN6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FUSSBALL.TV 2 UHD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745096&extension=ts&play_token=PGGSfnQvoN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FUSSBALL.TV 3 UHD [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745097&extension=ts&play_token=gypmnTRnXt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ BEIN SPORTS MAX 1 HD [AR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745083&extension=ts&play_token=IAgOEgZp6y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ BEIN SPORTS MAX 2 HD [AR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745084&extension=ts&play_token=sjvDOdVLPp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ BEIN SPORTS MAX 3 HD [EN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745085&extension=ts&play_token=Csft2UzqZ3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ BEIN SPORTS MAX 4 HD [EN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745086&extension=ts&play_token=8cFERLvvlZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ BEIN SPORTS MAX 5 HD [FR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745087&extension=ts&play_token=0krFwjUop8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ BEIN SPORTS MAX 6 HD [FR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745088&extension=ts&play_token=zM87yKpc1D
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ M6 HD [FR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745089&extension=ts&play_token=c73OQt8k49
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ BBC 1 HD [UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745114&extension=ts&play_token=E64jkqKmAt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ ITV 1 HD [UK]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745115&extension=ts&play_token=xLqDMWQRxv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ EPT 1 HD [GR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745107&extension=ts&play_token=mDgpKFWHAp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ TRT 1 HD [TR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745100&extension=ts&play_token=gIIX4Y7dFE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ TABII SPOR HD [TR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745101&extension=ts&play_token=hYle7jWDkb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ RTK 1 HD [AL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745102&extension=ts&play_token=rohpqYskyN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ KLAN TV HD [AL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745103&extension=ts&play_token=7lpi5mYkhf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ RAI 1 HD [IT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745099&extension=ts&play_token=XeoaQ2ZMPK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ DAZN MUNDIAL 1 HD [ES]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745110&extension=ts&play_token=Cm3zRehGay
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ DAZN MUNDIAL 2 HD [ES]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745111&extension=ts&play_token=F8w2vLUqkr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ DAZN MUNDIAL 3 HD [ES]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745112&extension=ts&play_token=7OSpgD600A
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ DAZN MUNDIAL 4 HD [ES]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745113&extension=ts&play_token=txWIsqVUKl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ TVP 1 HD [PL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745105&extension=ts&play_token=hGLiUsUMQB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ TVP 2 HD [PL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745106&extension=ts&play_token=Egp6glrjDd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ TVP SPORT HD [PL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745104&extension=ts&play_token=O6KNlqerba
+#EXTINF:-1 group-title="┃WC┃ WORLD CUP 2026",┃WC┃ ANTENA WORLD CUP 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1765324&extension=ts&play_token=Z42iOdkuIp
+#EXTINF:-1 group-title="┃WC┃ WORLD CUP 2026",┃WC┃ ANTENA WORLD CUP 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1765325&extension=ts&play_token=7e9Vt8L1Qx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ SPORT TV+ HD [PT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745116&extension=ts&play_token=vJCGTQnvfk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ SPORT TV 1 HD [PT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745117&extension=ts&play_token=CxrHSlAltk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ SPORT TV 2 HD [PT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745118&extension=ts&play_token=Msc0USRY3O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ SPORT TV 3 HD [PT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745119&extension=ts&play_token=GEH3bF2ykE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ SPORT TV 4 HD [PT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745120&extension=ts&play_token=llllsjxh4i
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FOX SPORTS 1 HD [USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745108&extension=ts&play_token=wPq9An3LWX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="┃WC┃ WORLD CUP 2026",┃WC┃ FOX SPORTS 2 HD [USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745109&extension=ts&play_token=gw8XJGj7um
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280228&extension=ts&play_token=AIE4nBGmWz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280229&extension=ts&play_token=XAQ7pqvCrc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280230&extension=ts&play_token=hXlNodgrsu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280231&extension=ts&play_token=fsd0oopd31
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280232&extension=ts&play_token=80ITSE02DJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280233&extension=ts&play_token=73GEkyeINb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280234&extension=ts&play_token=wlY14g61kp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280235&extension=ts&play_token=uA9b4Cv62V
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280236&extension=ts&play_token=DvoRF8xGDZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/IMDB/IMDB.png" group-title="┃DE┃ PREMIUM IMDB",┃DE┃ PREMIUM CINEMA IMDB 10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280237&extension=ts&play_token=jU0e9pZ5RT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280247&extension=ts&play_token=6YoyTBJgm9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280248&extension=ts&play_token=x15tbeD77A
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280249&extension=ts&play_token=27jfny1MVX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280250&extension=ts&play_token=Gx3otzYmMd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280251&extension=ts&play_token=GO1Fy6XN1C
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280252&extension=ts&play_token=qCel1Nnm4v
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280253&extension=ts&play_token=e7TJ8HZADf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280254&extension=ts&play_token=DubzvIkj7j
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280255&extension=ts&play_token=YI4KYWLb8g
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280256&extension=ts&play_token=xK6CsfUbOJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 11 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280257&extension=ts&play_token=eCEs8vFbym
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 12 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280258&extension=ts&play_token=ez4mwEejRl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280259&extension=ts&play_token=uzdLC5c56E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280260&extension=ts&play_token=tA9zHdrdfS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 15 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280261&extension=ts&play_token=axubtEs1Yj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 16 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280262&extension=ts&play_token=S2sPgeWKL4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 17 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280263&extension=ts&play_token=CvK9LRAcXb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 18 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280264&extension=ts&play_token=hIXorPTZpr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 19 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280265&extension=ts&play_token=Uy2BPrlUli
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 20 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280266&extension=ts&play_token=7u7G2cw7fK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 21 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280267&extension=ts&play_token=qpGodG9xKL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 22 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280268&extension=ts&play_token=Wli9PqaN8r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 23 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280269&extension=ts&play_token=kCMWj6AsZ4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280270&extension=ts&play_token=XholtIDDI3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 25 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280271&extension=ts&play_token=9k1p41IIvv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 26 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280272&extension=ts&play_token=F7BhWJU9dl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 27 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280273&extension=ts&play_token=MiitpC0l1o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 28 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280274&extension=ts&play_token=ZEJ7Mg2sd4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 29 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280275&extension=ts&play_token=PemdDDrxCb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 30 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280276&extension=ts&play_token=z9oPFg5x5Y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 31 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280277&extension=ts&play_token=5HUebmev2a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 32 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280278&extension=ts&play_token=UGAoAThq01
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 33 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280279&extension=ts&play_token=IirNqXc8I8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 34 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280280&extension=ts&play_token=pKqWgK1Z9E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ACTION/ACTION.png" group-title="┃DE┃ PREMIUM ACTION",┃DE┃ PREMIUM CINEMA ACTION 35 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280281&extension=ts&play_token=lKU2ZTPZCm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280282&extension=ts&play_token=sJw1nN3lf8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280283&extension=ts&play_token=l24A96lgjX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280284&extension=ts&play_token=gXMCjAsRdx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280285&extension=ts&play_token=OhNlh0B4sx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280286&extension=ts&play_token=JFSrZSQV6h
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280287&extension=ts&play_token=AhUwD6PVH0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280288&extension=ts&play_token=oQaV0ll56T
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280289&extension=ts&play_token=fn2TmA9ocu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280290&extension=ts&play_token=0w4g4egf7P
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280291&extension=ts&play_token=0RwDdpqNMP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280292&extension=ts&play_token=iQhoNXsUIi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280293&extension=ts&play_token=uLJHovJCur
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280294&extension=ts&play_token=mg10q0KcNW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280295&extension=ts&play_token=lPgr8Rvejn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280296&extension=ts&play_token=V3nYPg6BSt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280297&extension=ts&play_token=MQbDjSJ5St
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280298&extension=ts&play_token=SX8xp2cqjp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280299&extension=ts&play_token=yikzZ4VdOo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280300&extension=ts&play_token=HwOQdZ6Cq9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/THRILLER/THRILLER.png" group-title="┃DE┃ PREMIUM THRILLER",┃DE┃ PREMIUM CINEMA THRILLER 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280301&extension=ts&play_token=7HriBO1lCD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280344&extension=ts&play_token=PNwZi2MW4u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280345&extension=ts&play_token=KGvcH49e1W
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280346&extension=ts&play_token=9Zhh7XSXei
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280347&extension=ts&play_token=FiMxRJGk6G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280348&extension=ts&play_token=apfy5gCjvW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280349&extension=ts&play_token=29y3HFDi3u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280350&extension=ts&play_token=OUxJB2yYZA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280351&extension=ts&play_token=oyxoRSpVbP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280352&extension=ts&play_token=mOEAcUk47M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280353&extension=ts&play_token=eeFtdUGaDz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 11 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280354&extension=ts&play_token=HY5lfGAW6v
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 12 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280355&extension=ts&play_token=itUPBfNzUZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280356&extension=ts&play_token=k8Y3K1meV9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280357&extension=ts&play_token=l6vrPFe1Vn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 15 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280358&extension=ts&play_token=xMDRxO8enC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 16 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280359&extension=ts&play_token=SzDtcovuuO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 17 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280360&extension=ts&play_token=JssIPBAUVp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 18 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280361&extension=ts&play_token=nYQ8ydbuPw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 19 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280362&extension=ts&play_token=xKTkFjrUgs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DRAMA/DRAMA.png" group-title="┃DE┃ PREMIUM DRAMA",┃DE┃ PREMIUM CINEMA DRAMA 20 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280363&extension=ts&play_token=5w3I6w3V21
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280364&extension=ts&play_token=vPhUaUBJLU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280365&extension=ts&play_token=dmTbUgqDUu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280366&extension=ts&play_token=wW74g1V5bl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280367&extension=ts&play_token=7B6byDlhVW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280368&extension=ts&play_token=MCBh8Cnxjr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280369&extension=ts&play_token=OCIDnIvYHL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280370&extension=ts&play_token=mD2yAFq8sm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280371&extension=ts&play_token=bZaL9tMdy4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280372&extension=ts&play_token=dlrG1LiMVc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/LIEBESFILME/LIEBESFILME.png" group-title="┃DE┃ PREMIUM LIEBESFILME",┃DE┃ PREMIUM CINEMA LIEBESFILME 10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280373&extension=ts&play_token=0CcOkc66yF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280374&extension=ts&play_token=7XWUN0rJXX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280375&extension=ts&play_token=7w5YzL2buN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280376&extension=ts&play_token=JG3wQD2gng
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280377&extension=ts&play_token=EOUBulpWLK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280378&extension=ts&play_token=E6BIJhEvkY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280379&extension=ts&play_token=iz332RmCkk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280380&extension=ts&play_token=LjQLxbjtDT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280381&extension=ts&play_token=J3PbFcubZm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280382&extension=ts&play_token=mRVIxTIZHm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HORROR/HORROR.png" group-title="┃DE┃ PREMIUM HORROR",┃DE┃ PREMIUM CINEMA HORROR 10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280383&extension=ts&play_token=OINCdtXRO5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280384&extension=ts&play_token=zbILVf7hJw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280385&extension=ts&play_token=EynUMxMXon
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280386&extension=ts&play_token=AB6ix1M1km
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280387&extension=ts&play_token=JRiITc9n1B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280388&extension=ts&play_token=kE6QUbJ05p
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280389&extension=ts&play_token=TJFWcx9dCv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280390&extension=ts&play_token=GjAVC1nAio
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280391&extension=ts&play_token=VXq6rtafhk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SCI-FI/SCI-FI.png" group-title="┃DE┃ PREMIUM SCI-FI",┃DE┃ PREMIUM CINEMA SCI-FI 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280392&extension=ts&play_token=cX33YSAJ3I
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280403&extension=ts&play_token=jkigX8dhs7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280404&extension=ts&play_token=9E2JVRcQ6K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280405&extension=ts&play_token=zgP1FWilHx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280406&extension=ts&play_token=xMWT2WtS1e
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280407&extension=ts&play_token=0ZJaKFA36x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280408&extension=ts&play_token=O2TGMKsHUh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280409&extension=ts&play_token=AfOi6AAZV9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BOLLYWOOD/BOLLYWOOD.png" group-title="┃DE┃ PREMIUM BOLLYWOOD",┃DE┃ PREMIUM CINEMA BOLLYWOOD 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://me.mdmfista.com/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A9:BF:41; stb_lang=en; timezone=GMT
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280410&extension=ts&play_token=2YTmkDp1kF
