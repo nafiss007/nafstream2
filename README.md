@@ -1,32 +1,122 @@
-# React + TypeScript + Vite
+# NafStream
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+NafStream is a simple open-source live streaming web app built with React, TypeScript, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+It is designed as a clean web interface for playing legal, publicly available, or authorized live stream sources.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> Legal Notice: This project does not host, own, or distribute any TV channels, sports channels, or video content. Only use stream sources that are legal, public, or properly authorized.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Simple live streaming interface
+- Clean and responsive UI
+- React + TypeScript project structure
+- Fast development with Vite
+- Tailwind CSS styling
+- Easy to customize branding, colors, and layout
+- Production build support
+- Deployable on Vercel, Netlify, Cloudflare Pages, or any static hosting platform
 
-## Expanding the Oxlint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- PostCSS
+- npm
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+## Project Structure
+
+```text
+nafstream2/
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── package-lock.json
+├── tailwind.config.js
+├── postcss.config.js
+├── tsconfig.json
+├── tsconfig.app.json
+├── tsconfig.node.json
+└── vite.config.ts
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/nafiss007/nafstream2.git
+cd nafstream2
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the development server
+
+```bash
+npm run dev
+```
+
+Then open the local URL shown in the terminal. Usually it will be:
+
+```text
+http://localhost:5173
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+The production build will be created inside the `dist/` folder.
+
+## Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Deployment
+
+You can deploy this project on:
+
+- Vercel
+- Netlify
+- Cloudflare Pages
+- Any static hosting service
+
+Recommended deployment settings:
+
+```text
+Build Command: npm run build
+Output Directory: dist
+```
+
+## Important Disclaimer
+
+NafStream is only a player/interface. It does not provide or host any copyrighted sports channels, TV channels, or video content.
+
+The project owner is responsible for making sure all stream sources used with this project are legal and authorized.
+
+## Author
+
+Created by Nafis Mahmud.
+
+GitHub: https://github.com/nafiss007
+
+## License
+
+This project is open-source. Add a LICENSE file if you want to define specific usage rights.
+EOF
+
+git add README.md
+git commit -m "Add README"
+git push
